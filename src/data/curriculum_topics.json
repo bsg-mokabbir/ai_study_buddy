@@ -1,0 +1,108 @@
+{
+  "science": {
+    "biology": [
+      "Cell structure and function",
+      "Photosynthesis and cellular respiration",
+      "Genetics and heredity",
+      "Evolution and natural selection",
+      "Ecology and ecosystems",
+      "Human anatomy and physiology"
+    ],
+    "chemistry": [
+      "Atomic structure and periodic table",
+      "Chemical bonding and molecular structure",
+      "Chemical reactions and equations",
+      "Acids, bases, and pH",
+      "Organic chemistry basics",
+      "Stoichiometry and molar calculations"
+    ],
+    "physics": [
+      "Motion and forces",
+      "Energy and work",
+      "Waves and sound",
+      "Light and optics",
+      "Electricity and magnetism",
+      "Modern physics concepts"
+    ]
+  },
+  "mathematics": {
+    "algebra": [
+      "Linear equations and inequalities",
+      "Quadratic equations and functions",
+      "Polynomial operations",
+      "Exponential and logarithmic functions",
+      "Systems of equations",
+      "Graphing and coordinate geometry"
+    ],
+    "geometry": [
+      "Points, lines, and planes",
+      "Triangles and polygons",
+      "Circles and their properties",
+      "Area and volume calculations",
+      "Similarity and congruence",
+      "Coordinate geometry"
+    ],
+    "statistics": [
+      "Data collection and organization",
+      "Measures of central tendency",
+      "Probability basics",
+      "Normal distribution",
+      "Correlation and regression",
+      "Statistical inference"
+    ]
+  },
+  "history": {
+    "world_history": [
+      "Ancient civilizations",
+      "Medieval period",
+      "Renaissance and Reformation",
+      "Age of Exploration",
+      "Industrial Revolution",
+      "World Wars and modern conflicts"
+    ],
+    "us_history": [
+      "Colonial America",
+      "American Revolution",
+      "Civil War and Reconstruction",
+      "Westward expansion",
+      "Great Depression and New Deal",
+      "Civil Rights Movement"
+    ]
+  },
+  "english": {
+    "literature": [
+      "Poetry analysis",
+      "Novel study techniques",
+      "Character development",
+      "Theme identification",
+      "Literary devices and figurative language",
+      "Comparative literature"
+    ],
+    "writing": [
+      "Essay structure and organization",
+      "Research and citation",
+      "Grammar and mechanics",
+      "Persuasive writing techniques",
+      "Creative writing basics",
+      "Editing and revision strategies"
+    ]
+  },
+  "geography": {
+    "physical_geography": [
+      "Climate and weather patterns",
+      "Landforms and geological processes",
+      "Water systems and cycles",
+      "Natural disasters",
+      "Ecosystems and biomes",
+      "Environmental issues"
+    ],
+    "human_geography": [
+      "Population and demographics",
+      "Cultural geography",
+      "Economic systems",
+      "Urban and rural development",
+      "Political geography",
+      "Globalization effects"
+    ]
+  }
+}
